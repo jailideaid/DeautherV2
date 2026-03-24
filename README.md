@@ -52,7 +52,7 @@ Check Python 3:
 1. Clone or download the project:
 
 ```
-git clone https://github.com/youruser/DeautherV2.git
+git clone https://github.com/jailideaid/DeautherV2
 cd DeautherV2
 ```
 
